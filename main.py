@@ -47,9 +47,9 @@ while True:
         print("look up!")
         connection = smtplib.SMTP("smtp.gmail.com")
         connection.starttls()
-        connection.login("amrinderkgglr@gmail.com", "bdate21092000")
+        connection.login("your email id", "your password")
         connection.sendmail(
-            from_addr="amrinderkgglr@gmail.com",
-            to_addrs="amrinderkgglr@gmail.com",
+            from_addr="sender id",
+            to_addrs="receiver's id",
             msg="look up!"
         )
