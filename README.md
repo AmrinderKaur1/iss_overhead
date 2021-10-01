@@ -4,4 +4,4 @@ The program simply gets the current position of the ISS using the api and compar
 if it is so, the user can see the ISS but obviously if it is night and her position. 
 If the user can see the ISS we just need to send her an email at the provided id and say 'Look Up!".
 ghgjhj
-ghgjhj
+ghgj
